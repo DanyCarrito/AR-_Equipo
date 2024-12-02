@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Dany\Scripts_D\Roulette.cs" />
+    <Compile Include="Assets\Dany\Scripts_D\DetectCollider.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
